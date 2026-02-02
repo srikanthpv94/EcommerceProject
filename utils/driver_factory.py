@@ -23,6 +23,12 @@ def get_driver():
         options.add_argument("--disable-popup-blocking")
         options.add_argument("--ignore-certificate-errors")
         options.add_argument("window-size=1920,1080")
+        prefs = {
+            "credentials_enable_service": False,
+            "profile.password_manager_enabled": False
+        }
+        options.add_experimental_option("prefs", prefs)
+
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=options)
     else:
