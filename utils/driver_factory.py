@@ -1,3 +1,5 @@
+import tempfile
+
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
@@ -12,6 +14,8 @@ def get_driver():
 
     if browser == "chrome":
         options = webdriver.ChromeOptions()
+        temp_profile = tempfile.mkdtemp()
+        options.add_argument(f"--user-data-dir={temp_profile}")
         options.add_argument("--headless=new")
         options.add_argument("--start-maximized")
         options.add_argument("--disable-infobars")
