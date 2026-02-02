@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Checkout Code') {
             steps {
-                git 'https://github.com/yourname/EcommerceProject.git'
+                git 'https://github.com/srikanthpv94/EcommerceProject.git'
             }
         }
 
