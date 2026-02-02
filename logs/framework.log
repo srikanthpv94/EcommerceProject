@@ -1,0 +1,76 @@
+2026-02-02 16:02:26,420 | INFO | Launching browser: chrome
+2026-02-02 16:02:26,420 | INFO | ====== WebDriver manager ======
+2026-02-02 16:02:30,632 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:02:32,310 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:02:33,331 | INFO | There is no [win64] chromedriver "144.0.7559.109" for browser google-chrome "144.0.7559" in cache
+2026-02-02 16:02:33,332 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:02:35,761 | INFO | WebDriver version 144.0.7559.109 selected
+2026-02-02 16:02:35,777 | INFO | Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.109/win32/chromedriver-win32.zip
+2026-02-02 16:02:35,778 | INFO | About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/144.0.7559.109/win32/chromedriver-win32.zip
+2026-02-02 16:02:36,705 | INFO | Driver downloading response is 200
+2026-02-02 16:02:38,814 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:02:40,215 | INFO | Driver has been saved in cache [C:\Users\Sriraksha\.wdm\drivers\chromedriver\win64\144.0.7559.109]
+2026-02-02 16:02:46,580 | INFO | Logging into the application
+2026-02-02 16:02:49,820 | INFO | Launching browser: chrome
+2026-02-02 16:02:49,821 | INFO | ====== WebDriver manager ======
+2026-02-02 16:02:53,376 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:02:54,930 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:02:56,417 | INFO | Driver [C:\Users\Sriraksha\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-02 16:02:58,910 | INFO | Logging into the application
+2026-02-02 16:03:03,719 | INFO | Launching browser: chrome
+2026-02-02 16:03:03,719 | INFO | ====== WebDriver manager ======
+2026-02-02 16:03:07,933 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:03:09,165 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:03:10,573 | INFO | Driver [C:\Users\Sriraksha\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-02 16:03:12,080 | INFO | Launching browser: chrome
+2026-02-02 16:03:12,080 | INFO | ====== WebDriver manager ======
+2026-02-02 16:03:15,364 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:03:17,204 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:03:18,431 | INFO | Driver [C:\Users\Sriraksha\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-02 16:03:20,681 | INFO | Logging into the application
+2026-02-02 16:14:20,559 | INFO | Number of items in the cart: <class 'itertools.count'>
+2026-02-02 16:14:20,575 | INFO | Success message retrieved
+2026-02-02 16:14:20,590 | INFO | Launching browser: chrome
+2026-02-02 16:14:20,590 | INFO | ====== WebDriver manager ======
+2026-02-02 16:14:24,055 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:14:26,532 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:14:28,186 | INFO | Driver [C:\Users\Sriraksha\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-02 16:14:31,195 | INFO | Logging into the application
+2026-02-02 16:14:33,240 | INFO | Adding products to the cart
+2026-02-02 16:14:33,496 | INFO | Products added to the cart
+2026-02-02 16:14:33,497 | INFO | Getting the cart item count
+2026-02-02 16:14:33,534 | INFO | Navigating to the cart page
+2026-02-02 16:14:33,658 | INFO | Navigated to the cart page
+2026-02-02 16:14:33,658 | INFO | Removing product from cart
+2026-02-02 16:14:33,767 | INFO | Product removed from cart
+2026-02-02 16:14:33,768 | INFO | Getting number of items in the cart
+2026-02-02 16:14:36,186 | INFO | Launching browser: chrome
+2026-02-02 16:14:36,186 | INFO | ====== WebDriver manager ======
+2026-02-02 16:14:39,419 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:14:41,384 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:14:43,529 | INFO | Driver [C:\Users\Sriraksha\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-02 16:14:47,055 | INFO | Logging into the application
+2026-02-02 16:14:47,947 | INFO | Adding products to the cart
+2026-02-02 16:14:48,369 | INFO | Products added to the cart
+2026-02-02 16:14:48,369 | INFO | Navigating to the cart page
+2026-02-02 16:14:48,557 | INFO | Navigated to the cart page
+2026-02-02 16:14:48,557 | INFO | Removing product from cart
+2026-02-02 16:14:48,747 | INFO | Product removed from cart
+2026-02-02 16:14:48,748 | INFO | Starting the checkout process
+2026-02-02 16:14:48,949 | INFO | Checkout process started
+2026-02-02 16:14:48,950 | INFO | Entering checkout details
+2026-02-02 16:14:49,828 | INFO | Checkout details entered
+2026-02-02 16:14:49,829 | INFO | Finishing the order
+2026-02-02 16:14:50,315 | INFO | Order finished
+2026-02-02 16:14:50,317 | INFO | Retrieving success message
+2026-02-02 16:14:53,387 | INFO | Launching browser: chrome
+2026-02-02 16:14:53,388 | INFO | ====== WebDriver manager ======
+2026-02-02 16:14:57,644 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:14:59,117 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:15:00,738 | INFO | Driver [C:\Users\Sriraksha\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-02 16:15:02,673 | INFO | Launching browser: chrome
+2026-02-02 16:15:02,673 | INFO | ====== WebDriver manager ======
+2026-02-02 16:15:05,621 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:15:06,781 | INFO | Get LATEST chromedriver version for google-chrome
+2026-02-02 16:15:08,212 | INFO | Driver [C:\Users\Sriraksha\.wdm\drivers\chromedriver\win64\144.0.7559.109\chromedriver-win32/chromedriver.exe] found in cache
+2026-02-02 16:15:10,689 | INFO | Logging into the application
