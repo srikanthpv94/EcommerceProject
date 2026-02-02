@@ -12,6 +12,7 @@ def get_driver():
 
     if browser == "chrome":
         options = webdriver.ChromeOptions()
+        options.add_argument("--headless=new")
         options.add_argument("--start-maximized")
         options.add_argument("--disable-infobars")
         options.add_argument("--disable-extensions")
@@ -21,6 +22,7 @@ def get_driver():
         options.add_argument("--disable-notifications")
         options.add_argument("--disable-popup-blocking")
         options.add_argument("--ignore-certificate-errors")
+        options.add_argument("window-size=1920,1080")
         service = Service(ChromeDriverManager().install())
         driver = webdriver.Chrome(service=service, options=options)
     else:
